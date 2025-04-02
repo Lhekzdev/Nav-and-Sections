@@ -1,0 +1,103 @@
+/* nav */
+nav {
+    background-color: rgba(146, 145, 165, 0.932);
+    padding: 15px;
+    text-align: center;
+    margin: 0px 15px 20px;
+    color: white;
+display: flex;
+justify-content: center;
+align-items: center;
+ height: 50px;
+ width:auto;
+
+}
+
+
+
+nav ul li {
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    
+    margin-right: 40px;
+
+}
+/* main */
+
+
+.main{
+
+text-align: center;
+;
+}
+/* section 1 */
+.Section1 {
+    border: 3px solid black;
+    background-color: rgb(78, 54, 54);
+    margin: 15px;
+    padding: 20px;
+
+}
+
+.Section1 h2 {
+    color: rgb(179, 37, 37);
+    font-size: 40px;
+}
+
+.Section1 p {
+    color: coral;
+    font-size: 30px;
+}
+
+.Section1 button {
+    color: rgb(78, 54, 54);
+}
+
+/* section2 */
+.Section2 {
+    border: 3px solid black;
+    background-color: darksalmon;
+    margin: 15px;
+    padding: 20px;
+
+}
+
+.Section2 h2 {
+    color: rgb(179, 37, 37);
+    font-size: 30px;
+}
+
+.Section2 p {
+    color: white;
+    font-size:20px ;
+}
+
+.Section2 button {
+    color: rgb(179, 37, 37);
+}
+
+/* .Section3 */
+.Section3 {
+    border: 3px solid black;
+    background-color: chocolate;
+    margin: 15px;
+    padding: 20px;
+    
+
+}
+
+.Section3 h2 {
+    color: rgb(179, 37, 37);
+    font-size: 20px;
+}
+
+.Section3 p {
+    color: blue;
+    font-size:15px ;
+}
+
+.Section3 button {
+    color: chocolate;
+
+}
