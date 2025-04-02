@@ -1,15 +1,16 @@
 /* nav */
 nav {
     background-color: rgba(146, 145, 165, 0.932);
-    padding: 15px;
+    padding: 15px ;
     text-align: center;
-    margin: 0px 15px 20px;
+    margin: 0 0  20px 0;
     color: white;
 display: flex;
 justify-content: center;
 align-items: center;
  height: 50px;
  width:auto;
+ border-radius: 10px;
 
 }
 
@@ -33,10 +34,11 @@ text-align: center;
 }
 /* section 1 */
 .Section1 {
-    border: 3px solid black;
-    background-color: rgb(78, 54, 54);
+    border: 3px solid  black;
+    background-color:rgba(245, 149, 6, 0.966);
     margin: 15px;
     padding: 20px;
+    border-radius: 10px;
 
 }
 
@@ -46,12 +48,16 @@ text-align: center;
 }
 
 .Section1 p {
-    color: coral;
+    color:chartreuse;
     font-size: 30px;
 }
 
 .Section1 button {
     color: rgb(78, 54, 54);
+    background-color: blue;
+    border-radius: 10px;
+    padding:5px 10px;
+    font-size: 20px;
 }
 
 /* section2 */
@@ -60,7 +66,7 @@ text-align: center;
     background-color: darksalmon;
     margin: 15px;
     padding: 20px;
-
+    border-radius: 10px;
 }
 
 .Section2 h2 {
@@ -74,7 +80,11 @@ text-align: center;
 }
 
 .Section2 button {
-    color: rgb(179, 37, 37);
+    color: rgb(139, 5, 5);
+    background-color: blue;
+    border-radius: 10px;
+    padding:5px 10px;
+    font-size: 20px;
 }
 
 /* .Section3 */
@@ -83,7 +93,7 @@ text-align: center;
     background-color: chocolate;
     margin: 15px;
     padding: 20px;
-    
+    border-radius: 10px;
 
 }
 
@@ -99,5 +109,9 @@ text-align: center;
 
 .Section3 button {
     color: chocolate;
+    background-color: blue;
+border-radius: 10px;
+padding:5px 10px;
+font-size: 20px;
 
 }
